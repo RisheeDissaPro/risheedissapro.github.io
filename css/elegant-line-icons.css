@@ -55,6 +55,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-phone:before {
 	content: "\e004";
+	color: #5c913b;
 }
 .icon-document:before {
 	content: "\e005";
@@ -115,6 +116,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-bargraph:before {
 	content: "\e018";
+	color: #5c913b;
 }
 .icon-grid:before {
 	content: "\e019";
@@ -190,12 +192,14 @@ you can use the generic selector below, but it's slower:
 }
 .icon-layers:before {
 	content: "\e031";
+	color: #5c913b;
 }
 .icon-pencil:before {
 	content: "\e032";
 }
 .icon-tools:before {
 	content: "\e033";
+	color: #5c913b;
 }
 .icon-tools-2:before {
 	content: "\e034";
@@ -241,6 +245,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-bike:before {
 	content: "\e042";
+	color: #5c913b;
 }
 .icon-wine:before {
 	content: "\e043";
@@ -253,6 +258,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-genius:before {
 	content: "\e046";
+	color: #5c913b;
 }
 .icon-map-pin:before {
 	content: "\e047";
